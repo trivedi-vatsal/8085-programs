@@ -26,7 +26,7 @@ Index
 	
 	Program6.asm
 
-5. Find the 1's complement of the number.
+5.Find the 1's complement of the number.
 	
 	Program7.asm
 
