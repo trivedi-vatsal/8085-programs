@@ -1,6 +1,7 @@
 #8085 assembly programs
-========================
-####Here all the programs are tested on GNUSim8085 
+------------------------
+This repo is meant to have all the major 8085 program problems and its solution.
+Here all the programs are tested on GNUSim8085 
 
 
 Index
@@ -15,5 +16,7 @@ Index
 Issues
 -------------
 For any problem or suggestions
+
 Email: [Vatsal Trivedi](trivedivatsal005@gmail.com)
+
 Contact no: +91 7600635053
