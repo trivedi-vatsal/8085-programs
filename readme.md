@@ -12,6 +12,11 @@ Index
 	
 	>Program2.asm
 
+2. Exchange the contents of memory locations
+
+	>Program3.asm
+
+	>Program4.asm	
 
 
 
