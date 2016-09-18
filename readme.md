@@ -27,7 +27,9 @@ Index
 9. Add two 16-bit numbers.
 	- Program11.asm
 	- Program12.asm
-	
+10. Subtract two 16-bit numbers.
+	- Program13.asm
+		
 Issues
 -------------
 For any problem or suggestions
