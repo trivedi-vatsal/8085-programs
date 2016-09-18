@@ -24,7 +24,8 @@ Index
 	- Program9.asm
 8. Unpack the BCD number.
 	- Program10.asm
-	
+9. Add two 16-bit numbers.
+	- Program11.asm
 
 Issues
 -------------
