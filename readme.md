@@ -29,8 +29,8 @@ Index
 	- [Program12.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program12.asm)
 10. Subtract two 16-bit numbers.
 	- [Program13.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program13.asm)
-
-
+11. Calculate the sum of series of numbers. (8-bit numbers)
+	- [Program14.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program14.asm)
 
 Issues
 -------------
