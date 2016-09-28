@@ -41,6 +41,12 @@ Email: Vatsal Trivedi - trivedivatsal005@gmail.com
 Contact no: +91 7600635053
 
 
+Hit counter
+----------------
+
+[![ghit.me](https://ghit.me/badge.svg?repo=vattytrivedi/8085-programs)](https://ghit.me/repo/vattytrivedi/8085-programs)
+
+
 License
 ----------------
 
