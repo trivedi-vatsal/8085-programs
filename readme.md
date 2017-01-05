@@ -31,7 +31,12 @@ Index
 	- [Program13.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program13.asm)
 11. Calculate the sum of series of numbers. (8-bit numbers)
 	- [Program14.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program14.asm)
+12. Add the contents of two memory locations.
+	- [Program15.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program15.asm)	
 
+Contributors
+-------------
+ 1. Dishita Badarshahi - [DishitaBadarshahi](https://github.com/DishitaBadarshahi)
 Issues
 -------------
 For any problem or suggestions
