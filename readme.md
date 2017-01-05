@@ -32,7 +32,9 @@ Index
 11. Calculate the sum of series of numbers. (8-bit numbers)
 	- [Program14.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program14.asm)
 12. Add the contents of two memory locations.
-	- [Program15.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program15.asm)	
+	- [Program15.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program15.asm)
+13. Shift an eight bit data
+	- [Program16.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program16.asm)	
 
 Contributors
 -------------
