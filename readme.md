@@ -35,6 +35,8 @@ Index
 	- [Program15.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program15.asm)
 13. Shift an eight bit data
 	- [Program16.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program16.asm)	
+14. Find the 2's complement of 16-bit number
+	- [Program17.asm](https://github.com/vattytrivedi/8085-programs/blob/master/Programs/Program17.asm)	
 
 Contributors
 -------------
