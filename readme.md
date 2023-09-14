@@ -48,9 +48,6 @@ For any problem or suggestions
 
 Email: Vatsal Trivedi - trivedivatsal005@gmail.com
 
-Contact no: +91 7600635053
-
-
 Hit counter
 ----------------
 
